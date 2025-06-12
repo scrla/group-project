@@ -8,7 +8,7 @@
 | [추민재](https://github.com/EKRHKD)      | 경제학과      | 21학번 | 2021110890@dgu.ac.kr  |
 | [박세황](https://github.com/asteroidddd)     | 경제학과| 23학번 | hwang9973@dgu.ac.kr |
 
---
+---
 
 ## 1. 프로젝트명
 
