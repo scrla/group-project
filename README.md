@@ -3,8 +3,7 @@
 | 이름                                      | 전공           | 학번   | Email               |
 | ----------------------------------------- | -------------- | ------ | ------------------- |
 | [김서윤](https://github.com/rlatjyoon)      | 컴퓨터·AI학부      | 23학번 | 7k.syoon@gmail.com  |
-| [이시은](https://github.com/miro-oss)     | 컴퓨터공학전공 | 23학번 | tldms822@
-naver.com |
+| [이시은](https://github.com/miro-oss)     | 컴퓨터공학전공 | 23학번 | tldms822@naver.com |
 | [최홍서](https://github.com/hong-seo) | 컴퓨터공학전공 | 23학번 | ghdtj07@gmail.com |
 | [추민재](https://github.com/EKRHKD)      | 경제학과      | 21학번 | hoining6@dgu.ac.kr  |
 | [박세황](https://github.com/asteroidddd)     | 경제학과| 23학번 | hwang9973@dgu.ac.kr |
