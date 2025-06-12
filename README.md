@@ -26,7 +26,10 @@
 
 ## 3. 프로젝트 구조도
 
-![image]()
+![Image](https://github.com/user-attachments/assets/920cb651-438b-4c38-b9b0-5069bb6213cd)
+![Image](https://github.com/user-attachments/assets/f110ab17-9093-40b7-9ebf-c4676716c3cd)
+![Image](https://github.com/user-attachments/assets/7865b3f1-e39e-484a-aa2c-ee2f91f77f18)
+![Image](https://github.com/user-attachments/assets/9033239f-4951-4e7b-8427-77a1c31634ea)
 
 ## 4. 시연 영상 및 구동화면
 
