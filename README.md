@@ -39,6 +39,7 @@
 ![Image](https://github.com/user-attachments/assets/f110ab17-9093-40b7-9ebf-c4676716c3cd)
 
 ### 시연 영상
+[<img src="https://github.com/user-attachments/assets/9033239f-4951-4e7b-8427-77a1c31634ea" width="200" height="400"/>](https://youtu.be/gTtuIDpOe4I?si=r8jPg5ZV45in5Q7a)
 [![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/9033239f-4951-4e7b-8427-77a1c31634ea)](https://youtu.be/gTtuIDpOe4I?si=r8jPg5ZV45in5Q7a)
 
 ---
