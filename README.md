@@ -10,6 +10,7 @@
 
 ---
 
+<br>
 
 ## 1. 프로젝트명
 
@@ -20,7 +21,7 @@
 ## 2. 웹스토어 
 [<img src="https://github.com/user-attachments/assets/a10d16c8-bf27-413f-b2d7-4c00dbc5160c" width="200"/>](https://chromewebstore.google.com/detail/jdedeipfbnmfgebbijmdhlfilpddljji?utm_source=item-share-cb)
 
-[확장프로그램사용_메뉴얼.pdf](https://github.com/user-attachments/files/20708479/_._.pdf)
+[확장프로그램_사용법](https://github.com/user-attachments/files/20708479/_._.pdf)
 
 <br>
 
@@ -31,6 +32,7 @@
 > 간단히 입찰가만 입력하면, 유사 물건의 낙찰 데이터를 학습한 모델이 낙찰 가능성에 대한 시각화된 피드백을 즉시 제공한다.
 > 복잡한 입력 없이도 누구나 손쉽게 활용할 수 있도록 웹 브라우저의 크롬 확장 기능을 통해 접근성을 높였으며, 예측 결과는 그래프나 지표 형태로 제공되어 직관적인 의사결정을 돕는다.
 
+<br>
 
 ## 4. 프로젝트 구조도
 ![Image](https://github.com/user-attachments/assets/f110ab17-9093-40b7-9ebf-c4676716c3cd)
@@ -56,6 +58,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
+<br>
 
 ## 6. 성능 지표 및 시연 영상
 ### 1) 성능 지표
@@ -67,8 +70,8 @@
 ### 2) 시연 영상
 [<img src="https://github.com/user-attachments/assets/9033239f-4951-4e7b-8427-77a1c31634ea" width="500"/>](https://youtu.be/gTtuIDpOe4I?si=r8jPg5ZV45in5Q7a)
 
-
 ---
+<br>
 
 ## Commit Convention
 
