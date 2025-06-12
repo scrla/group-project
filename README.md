@@ -15,10 +15,14 @@
 
 경매시스템 낙찰 확률 프로그램
 
+
+
 ## 2. 웹스토어 
 [<img src="https://github.com/user-attachments/assets/a10d16c8-bf27-413f-b2d7-4c00dbc5160c" width="200"/>](https://chromewebstore.google.com/detail/jdedeipfbnmfgebbijmdhlfilpddljji?utm_source=item-share-cb)
 
 [확장프로그램사용_메뉴얼.pdf](https://github.com/user-attachments/files/20708479/_._.pdf)
+
+
 
 ## 3. 프로젝트 소개
 
@@ -28,8 +32,12 @@
 > 복잡한 입력 없이도 누구나 손쉽게 활용할 수 있도록 웹 브라우저의 크롬 확장 기능을 통해 접근성을 높였으며, 예측 결과는 그래프나 지표 형태로 제공되어 직관적인 의사결정을 돕는다.
 
 
+
+
 ## 4. 프로젝트 구조도
 ![Image](https://github.com/user-attachments/assets/f110ab17-9093-40b7-9ebf-c4676716c3cd)
+
+
 
 
 ## 5. 성능 지표 및 시연 영상
@@ -41,6 +49,8 @@
 
 ### 2) 시연 영상
 [<img src="https://github.com/user-attachments/assets/9033239f-4951-4e7b-8427-77a1c31634ea" width="500"/>](https://youtu.be/gTtuIDpOe4I?si=r8jPg5ZV45in5Q7a)
+
+
 
 ---
 
