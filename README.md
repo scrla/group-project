@@ -33,7 +33,7 @@
 ## 4. 프로젝트 구조도
 ![Image](https://github.com/user-attachments/assets/f110ab17-9093-40b7-9ebf-c4676716c3cd)
 
-## 5. 사용 기술 스택
+## 5. 기술 스택
 
 ### 데이터 전처리 / 모델 / 백엔드
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
