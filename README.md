@@ -16,10 +16,11 @@
 경매시스템 낙찰 확률 프로그램
 
 ## 2. 웹스토어 
-[![Image](https://github.com/user-attachments/assets/a10d16c8-bf27-413f-b2d7-4c00dbc5160c)](https://chromewebstore.google.com/detail/jdedeipfbnmfgebbijmdhlfilpddljji?utm_source=item-share-cb)
+[<img src="https://github.com/user-attachments/assets/a10d16c8-bf27-413f-b2d7-4c00dbc5160c" width="500"/>](https://chromewebstore.google.com/detail/jdedeipfbnmfgebbijmdhlfilpddljji?utm_source=item-share-cb)
+
 [확장프로그램사용_메뉴얼.pdf](https://github.com/user-attachments/files/20708479/_._.pdf)
 
-## 2. 프로젝트 소개
+## 3. 프로젝트 소개
 
 > 최근 공공자산의 효율적인 활용과 일반인의 자산 형성 수단으로써 공공 입찰 시장, 특히 온비드 경매 시스템에 대한 관심이 높아지고 있다. 그러나 입찰 시스템의 구조나 과거 낙찰 사례에 대한 정보에 익숙하지 않은 일반 사용자들이 입찰가를 설정하는 과정이 쉽지 않기에, 과도한 입찰로 인한 손해나 낙찰 실패가 빈번히 발생한다. 따라서 본 프로젝트에서는 추천입찰가와 희망 입찰가에 대한 낙찰 확률을 제공해주는 프로그램을 구현하였다.
 
@@ -27,20 +28,19 @@
 > 복잡한 입력 없이도 누구나 손쉽게 활용할 수 있도록 웹 브라우저의 크롬 확장 기능을 통해 접근성을 높였으며, 예측 결과는 그래프나 지표 형태로 제공되어 직관적인 의사결정을 돕는다.
 
 
-## 3. 프로젝트 구조도
+## 4. 프로젝트 구조도
 ![Image](https://github.com/user-attachments/assets/7865b3f1-e39e-484a-aa2c-ee2f91f77f18)
 
 
-## 4. 성능 지표 및 시연 영상
-### ✨ 성능 지표
-#### 1) 기타물품 모델의 성능지표
+## 5. 성능 지표 및 시연 영상
+### 1) 성능 지표
+#### - 기타물품 모델의 성능지표
 ![Image](https://github.com/user-attachments/assets/920cb651-438b-4c38-b9b0-5069bb6213cd)
-#### 2) 자동차의 성능지표
+#### - 자동차 모델의 성능지표
 ![Image](https://github.com/user-attachments/assets/f110ab17-9093-40b7-9ebf-c4676716c3cd)
 
-### 시연 영상
-[<img src="https://github.com/user-attachments/assets/9033239f-4951-4e7b-8427-77a1c31634ea" width="200" height="400"/>](https://youtu.be/gTtuIDpOe4I?si=r8jPg5ZV45in5Q7a)
-[![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/9033239f-4951-4e7b-8427-77a1c31634ea)](https://youtu.be/gTtuIDpOe4I?si=r8jPg5ZV45in5Q7a)
+### 2) 시연 영상
+[<img src="https://github.com/user-attachments/assets/9033239f-4951-4e7b-8427-77a1c31634ea" width="500"/>](https://youtu.be/gTtuIDpOe4I?si=r8jPg5ZV45in5Q7a)
 
 ---
 
