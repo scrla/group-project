@@ -41,9 +41,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge&logo=python&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-003B57?style=for-the-badge&logo=optuna&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### MLOps / 데이터 파이프라인
 
