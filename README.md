@@ -33,8 +33,49 @@
 ## 4. 프로젝트 구조도
 ![Image](https://github.com/user-attachments/assets/f110ab17-9093-40b7-9ebf-c4676716c3cd)
 
+## 5. 사용 기술 스택
 
-## 5. 성능 지표 및 시연 영상
+### 백엔드 / 모델링
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge&logo=python&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-003B57?style=for-the-badge&logo=optuna&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### MLOps / 데이터 파이프라인
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 웹 크롤링 / 자동화
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 클라이언트 / 확장 프로그램
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+
+### 주요 기능 요약
+
+- Airflow + Selenium 기반의 경매 데이터 자동 수집
+- 전처리된 데이터를 Snowflake 및 GitHub에 자동 적재
+- XGBoost 기반 낙찰 차수 분류 모델
+- 낙찰가율 회귀 모델 + KDE 확률 추정
+- Hugging Face 연동 모델 배포
+- Flask 서버를 통한 예측 API 제공
+- Chrome 확장 프로그램 UI 실시간 예측 연동
+
+## 6. 성능 지표 및 시연 영상
 ### 1) 성능 지표
 #### - 기타물품 모델의 성능지표
 ![Image](https://github.com/user-attachments/assets/7865b3f1-e39e-484a-aa2c-ee2f91f77f18)
