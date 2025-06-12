@@ -35,24 +35,17 @@
 
 ## 5. 사용 기술 스택
 
-### 백엔드 / 모델링
-
+### 데이터 전처리 / 모델 / 백엔드
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge&logo=python&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-003B57?style=for-the-badge&logo=optuna&logoColor=white)
-
-### MLOps / 데이터 파이프라인
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 웹 크롤링 / 자동화
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 클라이언트 / 확장 프로그램
 
@@ -61,16 +54,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-
-### 주요 기능 요약
-
-- Airflow + Selenium 기반의 경매 데이터 자동 수집
-- 전처리된 데이터를 Snowflake 및 GitHub에 자동 적재
-- XGBoost 기반 낙찰 차수 분류 모델
-- 낙찰가율 회귀 모델 + KDE 확률 추정
-- Hugging Face 연동 모델 배포
-- Flask 서버를 통한 예측 API 제공
-- Chrome 확장 프로그램 UI 실시간 예측 연동
 
 ## 6. 성능 지표 및 시연 영상
 ### 1) 성능 지표
