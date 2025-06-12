@@ -1,7 +1,7 @@
 ## 2025년 1학기, 공개SW프로젝트, 02분반, 예측해조, 5조
 
 | 이름                                      | 전공           | 학번   | Email               |
-| ----------------------------------------- | -------------- | ------ | ------------------- |
+| ------------------------ | -------------- | ------ | ------------------- |
 | [김서윤](https://github.com/rlatjyoon)   | 컴퓨터·AI학부      | 23학번 | 7k.syoon@gmail.com  |
 | [이시은](https://github.com/miro-oss)     | 컴퓨터공학전공 | 23학번 | tldms822@naver.com |
 | [최홍서](https://github.com/hong-seo) | 컴퓨터공학전공 | 23학번 | ghdtj07@gmail.com |
@@ -15,12 +15,14 @@
 
 경매시스템 낙찰 확률 프로그램
 
+<br>
 
 ## 2. 웹스토어 
 [<img src="https://github.com/user-attachments/assets/a10d16c8-bf27-413f-b2d7-4c00dbc5160c" width="200"/>](https://chromewebstore.google.com/detail/jdedeipfbnmfgebbijmdhlfilpddljji?utm_source=item-share-cb)
 
 [확장프로그램사용_메뉴얼.pdf](https://github.com/user-attachments/files/20708479/_._.pdf)
 
+<br>
 
 ## 3. 프로젝트 소개
 
