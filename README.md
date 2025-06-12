@@ -16,7 +16,7 @@
 경매시스템 낙찰 확률 프로그램
 
 ## 2. 웹스토어 
-[<img src="https://github.com/user-attachments/assets/a10d16c8-bf27-413f-b2d7-4c00dbc5160c" width="500"/>](https://chromewebstore.google.com/detail/jdedeipfbnmfgebbijmdhlfilpddljji?utm_source=item-share-cb)
+[<img src="https://github.com/user-attachments/assets/a10d16c8-bf27-413f-b2d7-4c00dbc5160c" width="200"/>](https://chromewebstore.google.com/detail/jdedeipfbnmfgebbijmdhlfilpddljji?utm_source=item-share-cb)
 
 [확장프로그램사용_메뉴얼.pdf](https://github.com/user-attachments/files/20708479/_._.pdf)
 
@@ -29,15 +29,15 @@
 
 
 ## 4. 프로젝트 구조도
-![Image](https://github.com/user-attachments/assets/7865b3f1-e39e-484a-aa2c-ee2f91f77f18)
+![Image](https://github.com/user-attachments/assets/f110ab17-9093-40b7-9ebf-c4676716c3cd)
 
 
 ## 5. 성능 지표 및 시연 영상
 ### 1) 성능 지표
 #### - 기타물품 모델의 성능지표
-![Image](https://github.com/user-attachments/assets/920cb651-438b-4c38-b9b0-5069bb6213cd)
+![Image](https://github.com/user-attachments/assets/7865b3f1-e39e-484a-aa2c-ee2f91f77f18)
 #### - 자동차 모델의 성능지표
-![Image](https://github.com/user-attachments/assets/f110ab17-9093-40b7-9ebf-c4676716c3cd)
+![Image](https://github.com/user-attachments/assets/920cb651-438b-4c38-b9b0-5069bb6213cd)
 
 ### 2) 시연 영상
 [<img src="https://github.com/user-attachments/assets/9033239f-4951-4e7b-8427-77a1c31634ea" width="500"/>](https://youtu.be/gTtuIDpOe4I?si=r8jPg5ZV45in5Q7a)
